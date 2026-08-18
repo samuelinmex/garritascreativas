@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garritascreativas.com.mx/sitemap.xml
